@@ -1,2 +1,12 @@
-# powershell-intro
-Powershell in (New-TimeSpan -Hours 1)
+# Powershell in (New-TimeSpan -Hours 1)
+
+## [0 - Meta](0-meta.html)
+## [1 - Data types](1-data-types.html)
+## [2 - Variables](2-variables.html)
+## [3.1 - Function parameters](3.1-function-parameters.html)
+## [3.2 - Filter functions](3.2-filter-functions.html)
+## [4 - Scope](4-scope.html)
+## [6 - Examples](6-examples.html)
+## [7 - Set up](7-set-up.html)
+## [8 - Misc](8-misc.html)
+## [9 - Links](9-links.html)
